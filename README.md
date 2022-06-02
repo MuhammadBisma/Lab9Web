@@ -42,4 +42,4 @@ database, sehingga setiap halamannya memiliki template tampilan yang sama.
 ## - Tampilan halaman ubah barang
 ![ubah](img/10.png)
 
-# SEKIAN & TERIMA KASIH
+# TERIMA KASIH
